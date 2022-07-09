@@ -3,7 +3,7 @@ import 'react-slideshow-image/dist/styles.css'
 
 const images = [
   
-  process.env.PUBLIC_URL + "images/1.png",
+  process.env.PUBLIC_URL + "images/1.jpg",
   process.env.PUBLIC_URL + "images/2.jpg",
   process.env.PUBLIC_URL + "images/3.jpg",
   process.env.PUBLIC_URL + "images/4.jpg",
